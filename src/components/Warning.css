@@ -1,0 +1,36 @@
+.error-background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.error {
+    background-color: white;
+    width: 40.25em;
+    margin: 25% auto;
+    border-radius: 12px;
+
+}
+
+.error-header {
+    padding: 1em;
+    background-color: red;
+    width: 38rem;
+    border-radius: 12px 12px 0 0;
+    font-weight: bold;
+    color: white;
+    font-size: large;
+
+}
+
+.error-message {
+    border-radius: 12px;
+    padding: 1rem;
+    width: 40rem;
+}
+
+.warning-button {
+    padding: auto;
+    margin: 0 10em 1em 1em;
+}
